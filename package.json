@@ -1,8 +1,8 @@
 {
-  "name": "material-ui",
-  "author": "Call-em-all Engineering Team",
+  "name": "material-ui-ie",
+  "author": "Calefy",
   "version": "0.14.4",
-  "description": "Material Design UI components built with React",
+  "description": "Material Design UI components built with React Adapt IE8+ based v0.14.4-release",
   "main": "./lib",
   "scripts": {
     "test": "npm run test-base -- --single-run",
@@ -22,11 +22,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/callemall/material-ui.git"
+    "url": "https://github.com/calefy/material-ui-ie.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/callemall/material-ui/issues"
+    "url": "https://github.com/calefy/material-ui-ie/issues"
   },
   "homepage": "http://material-ui.com/",
   "dependencies": {
