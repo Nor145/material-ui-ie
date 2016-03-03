@@ -1,8 +1,8 @@
 {
   "name": "material-ui-ie",
   "author": "Calefy",
-  "version": "0.1.0",
-  "description": "Material Design UI components built with React Adapt IE8+ based v0.14.4-release",
+  "version": "0.1.1",
+  "description": "Material Design UI components built with React [Adapt IE8+ based v0.14.4]",
   "main": "./lib",
   "scripts": {
     "test": "npm run test-base -- --single-run",
